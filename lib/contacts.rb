@@ -23,3 +23,4 @@ contacts.each do |person,contact_detail_hash|
 end
 end
 end
+end
